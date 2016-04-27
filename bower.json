@@ -1,7 +1,8 @@
 {
   "name": "sortable-otherlevels",
   "main": [
-    "Sortable.js"
+    "Sortable.js",
+    "ng-sortable.js"
   ],
   "homepage": "http://rubaxa.github.io/Sortable/",
   "authors": [
