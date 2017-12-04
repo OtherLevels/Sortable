@@ -1,6 +1,6 @@
 {
-  "name": "sortablejs",
-  "exportName": "Sortable",
+  "name": "olsortablejs",
+  "exportName": "otherLevels-sortable",
   "version": "1.4.2",
   "devDependencies": {
     "grunt": "*",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/rubaxa/Sortable.git"
+    "url": "https://github.com/OtherLevels/Sortable"
   },
   "keywords": [
     "sortable",
